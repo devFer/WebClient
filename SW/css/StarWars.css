@@ -1,0 +1,14 @@
+.bg { 
+  /* Imatge usada */
+  background-image: url("https://s3.amazonaws.com/wp_media-prod/app/uploads/2015/10/21135602/star-wars-space.jpg");
+
+  /* Altura completa */
+  height: 100%; 
+
+  /* Centrar i escalar la imatge */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+.card { background-color: rgba(245, 245, 245, 0.4); }
+.card-header, .card-footer { opacity: 1}

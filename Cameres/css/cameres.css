@@ -1,0 +1,24 @@
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.card-header{
+    padding:.75rem 1.25rem;
+    margin-bottom:0;
+    background-color:rgba(0,0,0,.03);
+    border-bottom:1px solid rgba(0,0,0,.125);
+}
+.font-header{
+    font-size:3.0rem;
+    font-weight:250;
+    line-height:1.0;
+}
+.map-style{
+    width:75%;
+    height:400px;
+    margin:auto;
+    width:50%;
+    margin-top: 10px;
+}
